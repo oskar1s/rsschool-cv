@@ -1,5 +1,6 @@
 ## **Oskar den Kaiser**
-_[discord](https://discordapp.com/users/935180805607678042)_
+* _Discord: [Chipper#9394](https://discordapp.com/users/935180805607678042)_ 
+* _Gmail: [oskardenkaiser@gmail.com](mailto:oskardenkaiser@gmail.com)_
 
 # __EXPERIENCE__
 * _nope_
