@@ -25,4 +25,4 @@ I am just a simple thinker.
 * _Thinking_
 
 ### __Experience__
-* _Full time thinker_
+* __Full time thinker__
