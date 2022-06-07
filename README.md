@@ -1,2 +1,1 @@
-# rsschool-cv
-CV
+https://oskar1s.github.io/rsschool-cv/

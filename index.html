@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Just a small page here</title>
+  </head>
+  <body>
+    <script type="text/javascript">
+
+        'use strict';
+
+        // функция на сложение вводимых чисел, до тех пор пока они вводятся
+
+        function sumInput() {
+          let numbers = [];
+          let value;
+          let sum = 0;
+
+          while(true) {
+            value = prompt('Введите число', 0);
+
+            if (value === "" || value === null || !isFinite(value)) break;
+
+            numbers.push(+value);
+          }
+
+          for (let number of numbers) {
+            sum += number;
+          }
+
+          return sum;
+        }
+
+        alert(sumInput());
+
+    </script>
+  </body>
+</html>
